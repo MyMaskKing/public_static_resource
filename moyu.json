@@ -1,6 +1,6 @@
 {
   "popDashang": true,
-  "forcedUpdate": true,
+  "forcedUpdate": false,
   "lastUpdate": {
     "url": "https://zhuanlan.zhihu.com/p/676547184",
     "message": "1.aaa,\n2.bbbb,\n333",
