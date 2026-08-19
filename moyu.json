@@ -1,6 +1,6 @@
 {
   "popDashang": true,
-  "forcedUpdate": true,
+  "forcedUpdate": false,
   "lastUpdate": {
     "url": "https:XXXX",
     "message": "1.aaa,\n2.bbbb,\n333",
